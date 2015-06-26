@@ -8,11 +8,9 @@ I used statistical analysis, machine learning, and MapReduce to discover interes
 
 ####Files
 
-- **Project summary** ([html](AnalyzingNYCSubwayDataset_02152015.html), [ipynb]
-(AnalyzingNYCSubwayDataset_02152015.ipynb))    
+- **Project summary** ([html](AnalyzingNYCSubwayDataset.html), [ipynb]
+(AnalyzingNYCSubwayDataset.ipynb))    
  includes answers to questions and codes for data analysis
 - **Project evaluation** ([pdf](ProjectReport.pdf))    
  Project evaluation from Udacity
-
-
 
