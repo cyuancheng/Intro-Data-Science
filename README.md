@@ -13,4 +13,8 @@ I used statistical analysis, machine learning, and MapReduce to discover interes
  includes answers to questions and codes for data analysis
 - **Project evaluation** ([pdf](ProjectReport.pdf))    
  Project evaluation from Udacity
+ 
+- **Project report by reviewer**
+	+ [Report](ProjectReport.pdf)
+	+ [Certification of the course](certificate.pdf)
 
