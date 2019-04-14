@@ -1,5 +1,5 @@
-##Analyzing the NYC subway dataset | Intro of Data Science
-- Author:  Chi-Yuan Cheng (cyuancheng AT gmail DOT com) 
+## Analyzing the NYC subway dataset | Intro of Data Science
+- Author:  Chiyuan Cheng (cyuancheng AT gmail DOT com) 
 - Last updated: Feb 17th 2015
 
 ### Information
@@ -13,7 +13,7 @@ The key messages from this project are:
 - The hourly entries during the weekend are less busy than in the weekdays.
 - The most busy hours on the weekend begin at 12pm and it reaches to its maximal level in the late afternoon (4pm-8pm). In contrast, the most busy hours in the weekdays are at 12pm and 8pm.
 
-###Files
+### Files
 
 - **Project summary** ([ipynb]
 (http://nbviewer.ipython.org/github/cyuancheng/Intro-Data-Science/blob/master/AnalyzingNYCSubwayDataset.ipynb))    
