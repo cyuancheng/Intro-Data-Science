@@ -20,6 +20,8 @@ The key messages from this project are:
  includes answers to questions and codes for data analysis
 - **Project evaluation** ([pdf](ProjectReport.pdf))    
  Project evaluation from Udacity
+ [NYC 8am](https://github.com/cyuancheng/Intro-Data-Science/blob/master/turnstile_map_8.png "8am)
+ 
  
 - **Project report by reviewer**
 	+ [Report](ProjectReport.pdf)
