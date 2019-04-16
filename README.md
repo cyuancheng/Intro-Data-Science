@@ -21,7 +21,7 @@ The key messages from this project are:
 - **Project evaluation** ([pdf](ProjectReport.pdf))    
  Project evaluation from Udacity
  
- ![NYC 8am](https://github.com/cyuancheng/Intro-Data-Science/blob/master/turnstile_map_8.png "8am)
+ ![NYC 8am](https://github.com/cyuancheng/Intro-Data-Science/blob/master/turnstile_map_8.png "8am")
  
  
 - **Project report by reviewer**
